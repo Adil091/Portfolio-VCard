@@ -1,5 +1,12 @@
+.home .logo {
+  background: #fff;
+  width: 200px;
+  height: 100px;
+}
+
 .home .info-section {
   width: 35%;
+  padding: 54px;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -7,18 +14,26 @@
 }
 
 .home .info-section .info-box {
-  padding: 54px;
   position: absolute;
   bottom: 60px;
 }
 
 .home .info-section h4 {
+  color: #fefefe;
   font-size: 1.2rem;
+}
+
+.home .info-section p {
+  color: #fefefe;
+  margin: .2rem 0 1.2rem;
+  font-size: .9rem;
+  font-weight: 300;
 }
 
 .home .content-area {
   background: #fff;
   width: 65%;
+  height: 100%;
   margin-left: 35%;
 }
 
@@ -59,5 +74,7 @@ table {
 
 html, body {
   background: #4b21ff;
+  height: 100%;
+  font-family: Barlow Condensed, sans-serif;
 }
 /*# sourceMappingURL=Personal VCard.9f367d21.css.map */
