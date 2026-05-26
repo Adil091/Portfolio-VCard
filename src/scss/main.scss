@@ -1,6 +1,9 @@
 @use "variable";
 @use "home";
 @use "reset";
+* {
+  box-sizing: border-box;
+}
 html,
 body {
   background: variable.$color1;
