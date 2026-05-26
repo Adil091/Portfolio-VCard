@@ -1,4 +1,7 @@
-@import "variable";
-body{
-  background: $color1;
+@use "variable";
+@use "home";
+@use "reset";
+html,
+body {
+  background: variable.$color1;
 }
