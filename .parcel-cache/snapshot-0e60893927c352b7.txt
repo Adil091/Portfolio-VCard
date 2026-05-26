@@ -1,9 +1,10 @@
-3599
-49/home/hoax/projects/Personal VCard/src/index.html1779769794717728969 0
+3601
+49/home/hoax/projects/Personal VCard/src/index.html1779786437289286184 0
 50/home/hoax/projects/Personal VCard/src/js/index.js1779759899708645123 0
 57/home/hoax/projects/Personal VCard/src/scss/variable.scss1779759552764790811 0
 54/home/hoax/projects/Personal VCard/src/scss/reset.scss1779766248687466548 0
-70/home/hoax/projects/Personal VCard/dist/Personal VCard.6528c13b.js.map1779780894178859331 0
+70/home/hoax/projects/Personal VCard/dist/Personal VCard.6528c13b.js.map1779786428000793011 0
+70/home/hoax/projects/Personal VCard/dist/Personal VCard.59712999.js.map1779786427707059325 0
 73/home/hoax/projects/Personal VCard/node_modules/supports-color/browser.js1779722483725961691 0
 75/home/hoax/projects/Personal VCard/node_modules/supports-color/package.json1779722483760453639 0
 63/home/hoax/projects/Personal VCard/node_modules/is-glob/LICENSE1779722483714464375 0
@@ -26,7 +27,7 @@
 98/home/hoax/projects/Personal VCard/node_modules/lightningcss/node_modules/detect-libc/package.json1779722483867761921 0
 104/home/hoax/projects/Personal VCard/node_modules/lightningcss/node_modules/detect-libc/lib/detect-libc.js1779722483771950955 0
 96/home/hoax/projects/Personal VCard/node_modules/lightningcss/node_modules/detect-libc/index.d.ts1779722483879259237 0
-53/home/hoax/projects/Personal VCard/src/scss/home.scss1779781107828528641 0
+53/home/hoax/projects/Personal VCard/src/scss/home.scss1779786635342801585 0
 85/home/hoax/projects/Personal VCard/node_modules/lightningcss/node_modules/detect-libc1779722483875426799 1
 60/home/hoax/projects/Personal VCard/node_modules/lightningcss1779722483959740449 1
 74/home/hoax/projects/Personal VCard/node_modules/nullthrows/nullthrows.d.ts1779722483752788762 0
@@ -498,7 +499,7 @@
 79/home/hoax/projects/Personal VCard/node_modules/caniuse-lite/data/regions/PG.js1779722484829704023 0
 79/home/hoax/projects/Personal VCard/node_modules/caniuse-lite/data/regions/AT.js1779722484143697504 0
 79/home/hoax/projects/Personal VCard/node_modules/caniuse-lite/data/regions/NP.js1779722484810541830 0
-71/home/hoax/projects/Personal VCard/dist/Personal VCard.9f367d21.css.map1779781085874848693 0
+71/home/hoax/projects/Personal VCard/dist/Personal VCard.9f367d21.css.map1779786635386874760 0
 79/home/hoax/projects/Personal VCard/node_modules/caniuse-lite/data/regions/MA.js1779722484772217443 0
 79/home/hoax/projects/Personal VCard/node_modules/caniuse-lite/data/regions/GR.js1779722484691736231 0
 79/home/hoax/projects/Personal VCard/node_modules/caniuse-lite/data/regions/MV.js1779722484799044514 0
@@ -687,7 +688,7 @@
 90/home/hoax/projects/Personal VCard/node_modules/caniuse-lite/data/features/console-time.js1779722484327654560 0
 79/home/hoax/projects/Personal VCard/node_modules/caniuse-lite/data/regions/VU.js1779722484914017673 0
 96/home/hoax/projects/Personal VCard/node_modules/caniuse-lite/data/features/css-cascade-layers.js1779722484381308701 0
-67/home/hoax/projects/Personal VCard/dist/Personal VCard.9f367d21.css1779781085870961609 0
+67/home/hoax/projects/Personal VCard/dist/Personal VCard.9f367d21.css1779786635386874760 0
 86/home/hoax/projects/Personal VCard/node_modules/@swc/helpers/src/_write_only_error.mjs1779722484618919897 0
 103/home/hoax/projects/Personal VCard/node_modules/caniuse-lite/data/features/es6-module-dynamic-import.js1779722484649579406 0
 89/home/hoax/projects/Personal VCard/node_modules/caniuse-lite/data/features/wasm-bigint.js1779722484917850112 0
@@ -1171,7 +1172,7 @@
 86/home/hoax/projects/Personal VCard/node_modules/@swc/helpers/src/_set_prototype_of.mjs1779722484599757704 0
 131/home/hoax/projects/Personal VCard/node_modules/@parcel/core/test/fixtures/local-plugin-config-pkg/node_modules/parcel-config-local1779722484473287228 1
 102/home/hoax/projects/Personal VCard/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest_remap.c1779722484277832857 0
-50/home/hoax/projects/Personal VCard/dist/index.html1779780894451009256 0
+50/home/hoax/projects/Personal VCard/dist/index.html1779786436809133754 0
 79/home/hoax/projects/Personal VCard/node_modules/caniuse-lite/data/regions/CX.js1779722484607422581 0
 66/home/hoax/projects/Personal VCard/node_modules/has-flag/readme.md1779722483775783394 0
 80/home/hoax/projects/Personal VCard/node_modules/@swc/helpers/_/_class_call_check1779722484032556783 1
@@ -1648,7 +1649,7 @@
 90/home/hoax/projects/Personal VCard/node_modules/caniuse-lite/data/features/cryptography.js1779722484350649191 0
 77/home/hoax/projects/Personal VCard/node_modules/@parcel/workers/lib/Worker.js1779722484147529943 0
 74/home/hoax/projects/Personal VCard/node_modules/@parcel/cache/lib/types.js1779722483944410694 0
-39/home/hoax/projects/Personal VCard/dist1779781085874848693 1
+39/home/hoax/projects/Personal VCard/dist1779786635386874760 1
 79/home/hoax/projects/Personal VCard/node_modules/caniuse-lite/data/regions/TM.js1779722484894855480 0
 89/home/hoax/projects/Personal VCard/node_modules/@parcel/packager-html/lib/HTMLPackager.js1779722483756621200 0
 71/home/hoax/projects/Personal VCard/node_modules/escalade/sync/index.mjs1779722483852432167 0
@@ -2785,7 +2786,7 @@
 94/home/hoax/projects/Personal VCard/node_modules/@parcel/core/test/fixtures/application-targets1779722484415800649 1
 67/home/hoax/projects/Personal VCard/node_modules/@parcel/logger/test1779722483802610464 1
 75/home/hoax/projects/Personal VCard/node_modules/@parcel/logger/package.json1779722483837102412 0
-66/home/hoax/projects/Personal VCard/dist/Personal VCard.6528c13b.js1779780894167195763 0
+66/home/hoax/projects/Personal VCard/dist/Personal VCard.6528c13b.js1779786428000793011 0
 91/home/hoax/projects/Personal VCard/node_modules/@parcel/reporter-cli/lib/CLIReporter.js.map1779722484028724345 0
 88/home/hoax/projects/Personal VCard/node_modules/caniuse-lite/data/features/nav-timing.js1779722484802876952 0
 76/home/hoax/projects/Personal VCard/node_modules/@parcel/reporter-cli/LICENSE1779722483714464375 0
@@ -2849,6 +2850,7 @@
 79/home/hoax/projects/Personal VCard/node_modules/weak-lru-cache/rollup.config.js1779722483802610464 0
 75/home/hoax/projects/Personal VCard/node_modules/@parcel/workers/lib/threads1779722484120702872 1
 101/home/hoax/projects/Personal VCard/node_modules/@parcel/reporter-dev-server/lib/ServerReporter.js.map1779722484151362382 0
+66/home/hoax/projects/Personal VCard/dist/Personal VCard.59712999.js1779786427703089906 0
 93/home/hoax/projects/Personal VCard/node_modules/@parcel/runtime-js/lib/helpers/cacheLoader.js1779722483806442903 0
 72/home/hoax/projects/Personal VCard/node_modules/@parcel/packager-svg/src1779722483768118516 1
 83/home/hoax/projects/Personal VCard/node_modules/@parcel/workers/lib/web/WebChild.js1779722484132200188 0
