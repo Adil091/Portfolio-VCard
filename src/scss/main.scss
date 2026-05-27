@@ -10,3 +10,30 @@ body {
   font-family: "Barlow Condensed", sans-serif;
   height: 100%;
 }
+.primary-btn {
+  background: variable.$color1;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  text-align: center;
+  color: variable.$color3;
+  padding: 15px 30px;
+  display: inline-block;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin-right: 15px;
+}
+.secondary-btn {
+  background: variable.$color3;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  text-align: center;
+  color: variable.$color1;
+  padding: 12px 27px;
+  display: inline-block;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  border: 2px solid;
+  border-color: variable.$color1;
+}
