@@ -1,7 +1,13 @@
 .home .logo {
-  background: #fff;
-  width: 200px;
+  color: #fff;
+  border: 5px solid #fff;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
   height: 100px;
+  font-size: 3rem;
+  line-height: 0;
+  display: flex;
 }
 
 .home .info-section {
@@ -20,6 +26,7 @@
 
 .home .info-section h4 {
   color: #fefefe;
+  margin-bottom: 6px;
   font-size: 1.2rem;
 }
 
@@ -30,8 +37,23 @@
   font-weight: 300;
 }
 
+.home .info-section .icon-section a {
+  color: #fff;
+  padding: 0 8px;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+
+.home .info-section .icon-section a:hover {
+  color: #f8ff21;
+}
+
+.home .info-section .icon-section a:first-child {
+  padding: 0;
+}
+
 .home .content-area {
-  background: #fff;
+  background: #fefefe;
   width: 65%;
   height: 100%;
   margin-left: 35%;
@@ -54,6 +76,7 @@
   position: absolute;
   top: 56px;
   left: -150px;
+  box-shadow: 9px 20px 74px 6px #00000057;
 }
 
 .home .profile-section {
@@ -131,6 +154,62 @@ html, body {
   font-family: Barlow Condensed, sans-serif;
 }
 
+.menu-icon {
+  z-index: 11;
+  padding: 20px;
+  position: fixed;
+  top: 36px;
+  right: 36px;
+}
+
+.menu-icon .fa-bars {
+  color: #4b21ff;
+  font-size: 2rem;
+}
+
+#menu {
+  z-index: 10;
+  opacity: 1;
+  background: #4b21ff;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  transition: all .5s ease-in-out;
+  display: flex;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  transform: translate3d(-100%, 0, 0);
+}
+
+#menu nav {
+  text-align: center;
+  width: 400px;
+}
+
+#menu nav a {
+  color: #fff;
+  padding: 1rem;
+  font-size: 2.3rem;
+  text-decoration: none;
+  display: block;
+}
+
+#menu nav a:hover {
+  color: #bdbdbd;
+}
+
+.menu-active .menu-icon .fa-times {
+  color: #fff;
+}
+
+.menu-active #menu {
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  transform: translate3d(0, 0, 0);
+}
+
 .primary-btn {
   text-align: center;
   color: #fefefe;
@@ -140,7 +219,14 @@ html, body {
   border-radius: 30px;
   margin-right: 15px;
   padding: 15px 30px;
+  text-decoration: none;
+  transition: all .3s ease-in-out;
   display: inline-block;
+}
+
+.primary-btn:hover {
+  cursor: pointer;
+  color: #000;
 }
 
 .secondary-btn {
@@ -152,6 +238,12 @@ html, body {
   border: 2px solid #4b21ff;
   border-radius: 30px;
   padding: 12px 27px;
+  text-decoration: none;
   display: inline-block;
+}
+
+.secondary-btn:hover {
+  cursor: pointer;
+  border-color: #000;
 }
 /*# sourceMappingURL=Personal VCard.9f367d21.css.map */

@@ -2,9 +2,16 @@
 
 .home {
   .logo {
-    background: white;
+    text-transform: uppercase;
+    border: 5px solid white;
     height: 100px;
-    width: 200px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: white;
+    line-height: 0;
   }
   .info-section {
     padding: 54px;
@@ -21,6 +28,7 @@
     h4 {
       font-size: 1.2rem;
       color: variable.$color3;
+      margin-bottom: 6px;
     }
     p {
       font-size: 0.9rem;
@@ -28,11 +36,25 @@
       color: variable.$color3;
       margin: 0.2rem 0 1.2rem;
     }
+    .icon-section {
+      a {
+        color: white;
+        text-decoration: none;
+        font-size: 1.2rem;
+        padding: 0 8px;
+        &:hover {
+          color: variable.$hoverColor;
+        }
+        &:first-child {
+          padding: 0 0 0 0;
+        }
+      }
+    }
   }
   .content-area {
     margin-left: 35%;
     width: 65%;
-    background: white;
+    background: variable.$color3;
     height: 100%;
     // padding: 0 0 0 15%;
     .img-container {
@@ -52,6 +74,9 @@
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
+        -webkit-box-shadow: 9px 20px 74px 6px rgba(0, 0, 0, 0.34);
+        -moz-box-shadow: 9px 20px 74px 6px rgba(0, 0, 0, 0.34);
+        box-shadow: 9px 20px 74px 6px rgba(0, 0, 0, 0.34);
       }
     }
   }
